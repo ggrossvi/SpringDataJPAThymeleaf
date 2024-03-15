@@ -1,7 +1,7 @@
 # SpringDataJPAThymeleaf
 
 In resources create a file application.properties
-replace datasource.url,datasource.username, atasource.password with your information
+replace datasource.url,datasource.username, datasource.password with your information
 
 server.port=8082 
 spring.datasource.url=jdbc:mysql://localhost:3306/studentregisterdb
